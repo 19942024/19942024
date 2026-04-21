@@ -30,13 +30,12 @@
 ## 🏆 Certificaciones Profesionales
 
 ### 🔵 Microsoft
-[![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate_(PL--300)-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
+[![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.credly.com/badges/45ae99dd-c8ad-43c3-b3ae-8303ae4464d5)
 
 ### 🔴 IBM
-[![Applied Data Science](https://img.shields.io/badge/IBM-Programa_Especializado:_Applied_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/)
-[![Data Science Capstone](https://img.shields.io/badge/IBM-Data_Science_Capstone-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/)
+[![Applied Data Science](https://img.shields.io/badge/IBM-Applied_Data_Science_Specialization-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/e2fc819e-c83e-4254-9a04-10846b57a135)
+[![Data Science Capstone](https://img.shields.io/badge/IBM-Data_Science_Capstone-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.credly.com/badges/c0196865-8ddc-4911-bb01-943d030b10d2)
 
----
 
 ## 📂 Proyectos Destacados
 
